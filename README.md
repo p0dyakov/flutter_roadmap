@@ -34,8 +34,8 @@
 [LazyLoad Dart & Flutter](https://www.youtube.com/c/LearnDartFlutter/videos?view=0&sort=da&flow=grid)  
 [Статьи по flutter](https://github.com/p-zahar/flutter_articles)  
 
-**Не пеши велосипед, лучше возьми пакет**
-[drift](https://pub.dev/packages/drift) - sql бд
+**Не пеши велосипед, лучше возьми пакет**  
+[drift](https://pub.dev/packages/drift) - sql бд  
 [shared_preferences](https://pub.dev/packages/shared_preferences) - бд для хранения простых данных  
 [json_serializable](https://pub.dev/packages/json_serializable) - генерация кода для парсинга json  
 [freezed](https://pub.dev/packages/freezed) - генерация кода  
