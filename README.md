@@ -14,7 +14,7 @@
 [Статьи по flutter](https://github.com/p-zahar/flutter_articles)  
 
 ## Архитектура приложений на flutter
-[Примеры приложений](https://github.com/stars/p-zahar/lists/examples)
-[Принципы SOLID](https://habr.com/ru/company/jugru/blog/446562/)
-[Архитектура Flutter приложения](https://www.youtube.com/watch?v=2umUZX4bAt0)
-[Flutter TDD Clean Architecture (en)](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)  
+[Примеры приложений](https://github.com/stars/p-zahar/lists/examples)   
+[Принципы SOLID](https://habr.com/ru/company/jugru/blog/446562/)   
+[Архитектура Flutter приложения](https://www.youtube.com/watch?v=2umUZX4bAt0)  
+[Flutter TDD Clean Architecture (en)](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)   
