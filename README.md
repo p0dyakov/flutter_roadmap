@@ -1,5 +1,10 @@
 
 # Flutter roadmap 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/p-zahar/flutter_roadmap">
+    <img alt="logo" src="https://raw.githubusercontent.com/p-zahar/flutter_roadmap/main/logo.png">
+  </a>
+</p>
 
 ## Перед тем, как начать путь в IT
 [Как стать программистом](https://www.youtube.com/watch?v=fJ2AxT3qHPE)  
