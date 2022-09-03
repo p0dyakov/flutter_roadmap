@@ -34,6 +34,19 @@
 [LazyLoad Dart & Flutter](https://www.youtube.com/c/LearnDartFlutter/videos?view=0&sort=da&flow=grid)  
 [Статьи по flutter](https://github.com/p-zahar/flutter_articles)  
 
+**Не пеши велосипед, лучше возьми пакет**
+[drift](https://pub.dev/packages/drift) - sql бд
+[shared_preferences](https://pub.dev/packages/shared_preferences) - бд для хранения простых данных
+[json_serializable](https://pub.dev/packages/json_serializable) - генерация кода для парсинга json
+[freezed](https://pub.dev/packages/freezed) - генерация кода
+[collection](https://pub.dev/packages/collection) - дополнительные функции для различных структур данных
+[icons_launcher](https://pub.dev/packages/collection) - добавление иконки для вашего приложения
+[http](https://pub.dev/packages/http) - http запросы
+[dio](https://pub.dev/packages/dio) - http запросы
+[flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) - уведомления для вашего приложения
+[connectivity_plus](https://pub.dev/packages/connectivity_plus) - проверка подключения
+
+
 ## Архитектура приложений на flutter
 [Примеры приложений](https://github.com/stars/p-zahar/lists/examples)   
 [Принципы SOLID](https://habr.com/ru/company/jugru/blog/446562/)   
