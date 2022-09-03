@@ -11,21 +11,21 @@
 [О курсах по программированию](https://www.youtube.com/watch?v=7Mw0AkD_sgg)  
 [Быстрый рост программиста](https://www.youtube.com/watch?v=JtOWQTCs_80)  
 
-## Основы програмирования
+**Основы програмирования** 
 [CS50 (Гарвардский курс по основам программирования)](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)  
 [Что такое компилятор](https://medium.com/nuances-of-programming/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80-3bcd06dca522)  
 [Какую IDE выбрать Flutter-разработчику](https://academy.mediasoft.team/article/kakuyu-ide-vybrat-android-flutter-i-ios-razrabotchiku/)  
 
-### ООП
+**ООП**  
 [Что такое ООП](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)  
 [ООП в картинках](https://habr.com/ru/post/463125/)  
 
-### Системы контроля версий
+**Системы контроля версий**  
 [Что такое GIT, GITHUB и BITBUCKET? / Просто и понятно](https://www.youtube.com/watch?v=ykyERvz17LE)  
 [Эффективное использование Github](https://habr.com/ru/company/2gis/blog/306166/)  
 [Git. Коротко о главном](https://habr.com/ru/post/588801/)  
 
-### Алгоритмы и структуры данных
+**Алгоритмы и структуры данных**  
 [Структуры данных](https://habr.com/ru/post/422259/)  
 [Адитья Бхаргава "Грокаем алгоритмы"](https://vk.com/doc44301783_448824849?hash=kIzYkhoq6jGrHzZ35vBPqPL7nKZSMqgejURq9aHd9pc&dl=6JcvTX9YucqFm8BufObBvZxWfrCKPN5DQFe0wsd2sQ4)  
 [Leetcode](https://leetcode.com/problemset/all/) - сайт с алгоритмическими задачами  
