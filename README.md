@@ -13,12 +13,22 @@
 
 ## Основы програмирования
 [CS50 (Гарвардский курс по основам программирования)](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)  
-[Адитья Бхаргава "Грокаем алгоритмы"](https://vk.com/doc44301783_448824849?hash=kIzYkhoq6jGrHzZ35vBPqPL7nKZSMqgejURq9aHd9pc&dl=6JcvTX9YucqFm8BufObBvZxWfrCKPN5DQFe0wsd2sQ4)  
-[ООП в картинках](https://habr.com/ru/post/463125/)  
-[Git. Коротко о главном](https://habr.com/ru/post/588801/)  
 [Что такое компилятор](https://medium.com/nuances-of-programming/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80-3bcd06dca522)  
-[Структуры данных](https://habr.com/ru/post/422259/)  
 [Какую IDE выбрать Flutter-разработчику](https://academy.mediasoft.team/article/kakuyu-ide-vybrat-android-flutter-i-ios-razrabotchiku/)  
+
+### ООП
+[Что такое ООП](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)  
+[ООП в картинках](https://habr.com/ru/post/463125/)  
+
+### Системы контроля версий
+[Что такое GIT, GITHUB и BITBUCKET? / Просто и понятно](https://www.youtube.com/watch?v=ykyERvz17LE)  
+[Эффективное использование Github](https://habr.com/ru/company/2gis/blog/306166/)  
+[Git. Коротко о главном](https://habr.com/ru/post/588801/)  
+
+### Алгоритмы и структуры данных
+[Структуры данных](https://habr.com/ru/post/422259/)  
+[Адитья Бхаргава "Грокаем алгоритмы"](https://vk.com/doc44301783_448824849?hash=kIzYkhoq6jGrHzZ35vBPqPL7nKZSMqgejURq9aHd9pc&dl=6JcvTX9YucqFm8BufObBvZxWfrCKPN5DQFe0wsd2sQ4)  
+[Leetcode](https://leetcode.com/problemset/all/) - сайт с алгоритмическими задачами  
 
 ## Основы dart & flutter
 [LazyLoad Dart & Flutter](https://www.youtube.com/c/LearnDartFlutter/videos?view=0&sort=da&flow=grid)  
@@ -30,3 +40,4 @@
 [Архитектура Flutter приложения](https://www.youtube.com/watch?v=2umUZX4bAt0)  
 [Flutter TDD Clean Architecture (en)](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)     
 [Роберт Мартин "Чистая архитектура. Искусство разработки программного обеспечения"](https://vk.com/doc44301783_469642449?hash=j3vfhnJZJbRyedXjMdahCumjzkehuOpKxjgXlo4Gk2z&dl=NQQZchoaHk7LcHgSaCZNQauNxmgvdlhEUPKeZ18LagP)  
+[Refactoring Guru](https://refactoring.guru/ru/) - сайт с описанием различных паттернов проектирования  
