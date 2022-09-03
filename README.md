@@ -1,5 +1,3 @@
-
-# Flutter roadmap 
 <p align="center">
   <a href="https://raw.githubusercontent.com/p-zahar/flutter_roadmap">
     <img alt="logo" src="https://raw.githubusercontent.com/p-zahar/flutter_roadmap/main/logo.png">
