@@ -27,12 +27,21 @@
 
 **Алгоритмы и структуры данных**  
 [Структуры данных](https://habr.com/ru/post/422259/)  
+[Тренировки по алгоритмам](https://www.youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)  
 [Адитья Бхаргава "Грокаем алгоритмы"](https://vk.com/doc44301783_448824849?hash=kIzYkhoq6jGrHzZ35vBPqPL7nKZSMqgejURq9aHd9pc&dl=6JcvTX9YucqFm8BufObBvZxWfrCKPN5DQFe0wsd2sQ4)  
 [Leetcode](https://leetcode.com/problemset/all/) - сайт с алгоритмическими задачами  
 
 ## Основы dart & flutter
 [LazyLoad Dart & Flutter](https://www.youtube.com/c/LearnDartFlutter/videos?view=0&sort=da&flow=grid)  
 [Статьи по flutter](https://github.com/p-zahar/flutter_articles)  
+[ШМР 2022](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAcQQjPdi77FUF8LYoLZHoO)  
+[ШМР 2021](https://www.youtube.com/playlist?list=PLQC2_0cDcSKBB4F8y-V_lB2HiFYSWIgYW)  
+[Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)  
+[Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)  
+[Flutter. Асинхронность и параллельность](https://habr.com/ru/post/497278/)  
+[Управление состоянием в приложениях на Flutter](https://habr.com/ru/post/424765/)   
+[Виджеты, Контекст, Стейт, Ключи](https://www.youtube.com/watch?v=9LvO7xkueT4)  
+[Iterable , Stream и sync*/async* генераторы](https://www.youtube.com/watch?v=SZGG7uTBXJ4)   
 
 **Не пеши велосипед, лучше возьми пакет**  
 [drift](https://pub.dev/packages/drift) - sql бд  
@@ -70,6 +79,17 @@
 [Flutter TDD Clean Architecture (en)](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)     
 [Роберт Мартин "Чистая архитектура. Искусство разработки программного обеспечения"](https://vk.com/doc44301783_469642449?hash=j3vfhnJZJbRyedXjMdahCumjzkehuOpKxjgXlo4Gk2z&dl=NQQZchoaHk7LcHgSaCZNQauNxmgvdlhEUPKeZ18LagP)  
 [Refactoring Guru](https://refactoring.guru/ru/) - сайт с описанием различных паттернов проектирования  
+[Курс: Паттерны и практики написания кода](https://youtube.com/playlist?list=PLknJ4Vr6efQHD8qkPPosGQjqrZpTa7KQP)  
+
+## Flutter под капотом
+[Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
+[Как работает Flutter](https://habr.com/ru/post/476018/)  
+[Flutter каналы платформы](https://habr.com/ru/post/666272/)  
+[Flutter под капотом](https://habr.com/ru/company/surfstudio/blog/501862/)  
+[Flutter под капотом: Binding](https://habr.com/ru/company/surfstudio/blog/512326/)  
+[Flutter под капотом: Owners](https://habr.com/ru/company/surfstudio/blog/533210/)  
+[Эвент лупы и Изоляты](https://www.youtube.com/watch?v=kLoYHnh9XS0)    
+[Flutter под капотом — Михаил Зотьев, Артём Зайцев, Surf](https://www.youtube.com/watch?v=KdCAzsTXdV8)  
 
 ## Интервью 
 [Ответы на вопросы](https://github.com/p0dyakov/flutter_interview/blob/main/README.md)  
@@ -78,23 +98,3 @@
 [Собеседование Junior Flutter-разработчика | WTF Interview #3](https://www.youtube.com/watch?v=tURNG5WqmWM)  
 [Собеседование Senior Flutter-разработчика | WTF Interview #4](https://www.youtube.com/watch?v=0WRWDRH1-XE)  
 [Flutter. Открытое собеседование](https://www.youtube.com/watch?v=K8o8RCsj41s)  
-
-[Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)  
-[Работа с асинхронностью в Dart](https://habr.com/ru/company/surfstudio/blog/539362/)  
-[Flutter. Асинхронность и параллельность](https://habr.com/ru/post/497278/)  
-[Управление состоянием в приложениях на Flutter](https://habr.com/ru/post/424765/)    
-[Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
-[Как работает Flutter](https://habr.com/ru/post/476018/)  
-[Flutter каналы платформы](https://habr.com/ru/post/666272/)  
-[Flutter под капотом](https://habr.com/ru/company/surfstudio/blog/501862/)  
-[Flutter под капотом: Binding](https://habr.com/ru/company/surfstudio/blog/512326/)  
-[Flutter под капотом: Owners](https://habr.com/ru/company/surfstudio/blog/533210/)  
-[Эвент лупы и Изоляты](https://www.youtube.com/watch?v=kLoYHnh9XS0)    
-[ШМР 2022](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAcQQjPdi77FUF8LYoLZHoO)  
-[ШМР 2021](https://www.youtube.com/playlist?list=PLQC2_0cDcSKBB4F8y-V_lB2HiFYSWIgYW)  
-[Архитектура Flutter приложения](https://www.youtube.com/watch?v=2umUZX4bAt0)  
-[Алгоритмы Яндекс](https://www.youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)  
-[Flutter под капотом — Михаил Зотьев, Артём Зайцев, Surf](https://www.youtube.com/watch?v=KdCAzsTXdV8)  
-[Виджеты, Контекст, Стейт, Ключи](https://www.youtube.com/watch?v=9LvO7xkueT4)  
-[Iterable , Stream и sync*/async* генераторы](https://www.youtube.com/watch?v=SZGG7uTBXJ4)  
-[Курс: Паттерны и практики написания кода](https://youtube.com/playlist?list=PLknJ4Vr6efQHD8qkPPosGQjqrZpTa7KQP)  
