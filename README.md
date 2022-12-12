@@ -5,6 +5,8 @@
 </p>
 В данном репозитории собраны материалы, с помощью которых можно изучить мобильную разработку на dart и flutter. Но не стоит только смотреть, самое важное - практика! Пул реквесты приветствуются  
 
+Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_acrticles](https://github.com/p0dyakov/flutter_acrticles)
+
 ## Перед тем, как начать путь в IT
 [Как стать программистом](https://www.youtube.com/watch?v=fJ2AxT3qHPE)  
 [Как изучать программирование](https://www.youtube.com/watch?v=vNJKhmewonk)  
