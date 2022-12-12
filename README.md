@@ -70,3 +70,11 @@
 [Flutter TDD Clean Architecture (en)](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)     
 [Роберт Мартин "Чистая архитектура. Искусство разработки программного обеспечения"](https://vk.com/doc44301783_469642449?hash=j3vfhnJZJbRyedXjMdahCumjzkehuOpKxjgXlo4Gk2z&dl=NQQZchoaHk7LcHgSaCZNQauNxmgvdlhEUPKeZ18LagP)  
 [Refactoring Guru](https://refactoring.guru/ru/) - сайт с описанием различных паттернов проектирования  
+
+## Интервью 
+[Ответы на вопросы](https://github.com/p0dyakov/flutter_interview/blob/main/README.md)  
+[Собеседование Middle Flutter-разработчика | WTF Interview #1](https://www.youtube.com/watch?v=Pf6W6cPUsvE)  
+[Собеседование Middle+ Flutter-разработчика | WTF Interview #2](https://www.youtube.com/watch?v=nONvezT1oAo)  
+[Собеседование Junior Flutter-разработчика | WTF Interview #3](https://www.youtube.com/watch?v=tURNG5WqmWM)  
+[Собеседование Senior Flutter-разработчика | WTF Interview #4](https://www.youtube.com/watch?v=0WRWDRH1-XE)  
+[Flutter. Открытое собеседование](https://www.youtube.com/watch?v=K8o8RCsj41s)  
