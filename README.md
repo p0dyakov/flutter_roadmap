@@ -3,6 +3,8 @@
     <img alt="logo" src="https://raw.githubusercontent.com/p-zahar/flutter_roadmap/main/logo.png">
   </a>
 </p>
+В данном репозитории собраны материалы, с помощью которых можно изучить мобильную разработку на dart и flutter. Но не стоит только смотреть, самое важное - практика!  
+Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_articles](https://github.com/p0dyakov/flutter_articles)
 
 ## Перед тем, как начать путь в IT
 [Как стать программистом](https://www.youtube.com/watch?v=fJ2AxT3qHPE)  
