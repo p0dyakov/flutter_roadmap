@@ -33,6 +33,7 @@
 [Тренировки по алгоритмам](https://www.youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)  
 [Адитья Бхаргава "Грокаем алгоритмы"](https://vk.com/doc44301783_448824849?hash=kIzYkhoq6jGrHzZ35vBPqPL7nKZSMqgejURq9aHd9pc&dl=6JcvTX9YucqFm8BufObBvZxWfrCKPN5DQFe0wsd2sQ4)  
 [Leetcode](https://leetcode.com/problemset/all/) - сайт с алгоритмическими задачами  
+[NeetCode](https://www.youtube.com/@NeetCode)
 
 ## Основы dart & flutter
 [LazyLoad Dart & Flutter](https://www.youtube.com/c/LearnDartFlutter/videos?view=0&sort=da&flow=grid)  
