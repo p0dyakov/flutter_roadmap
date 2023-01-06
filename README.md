@@ -47,7 +47,7 @@
 [Виджеты, Контекст, Стейт, Ключи](https://www.youtube.com/watch?v=9LvO7xkueT4)  
 [Iterable , Stream и sync*/async* генераторы](https://www.youtube.com/watch?v=SZGG7uTBXJ4)   
 
-**Не пеши велосипед, лучше возьми пакет**  
+**Не пиши велосипед, лучше возьми пакет**  
 [drift](https://pub.dev/packages/drift) - sql бд  
 [shared_preferences](https://pub.dev/packages/shared_preferences) - бд для хранения простых данных  
 [json_serializable](https://pub.dev/packages/json_serializable) - генерация кода для парсинга json  
