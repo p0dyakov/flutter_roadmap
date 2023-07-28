@@ -77,7 +77,7 @@
 [animations](https://pub.dev/packages/animations) - анимации  
 
 ## Архитектура приложений на flutter
-[Примеры приложений](https://github.com/stars/p0dyakov/lists/flutter-examples)
+[Примеры приложений](https://github.com/stars/p0dyakov/lists/flutter-examples)   
 [Принципы SOLID](https://habr.com/ru/company/jugru/blog/446562/)   
 [Архитектура Flutter приложения](https://www.youtube.com/watch?v=2umUZX4bAt0)  
 [Flutter TDD Clean Architecture (en)](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)     
