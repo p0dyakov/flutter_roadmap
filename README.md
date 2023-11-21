@@ -14,7 +14,7 @@
 [О курсах по программированию](https://www.youtube.com/watch?v=7Mw0AkD_sgg)  
 [Быстрый рост программиста](https://www.youtube.com/watch?v=JtOWQTCs_80)   
 
-## Основы програмирования  
+## Основы программирования  
 [CS50 (Гарвардский курс по основам программирования)](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)  
 [Что такое компилятор](https://medium.com/nuances-of-programming/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80-3bcd06dca522)  
 [Какую IDE выбрать Flutter-разработчику](https://academy.mediasoft.team/article/kakuyu-ide-vybrat-android-flutter-i-ios-razrabotchiku/)  
