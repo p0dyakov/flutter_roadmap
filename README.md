@@ -15,20 +15,20 @@
 [Быстрый рост программиста](https://www.youtube.com/watch?v=JtOWQTCs_80)   
 
 ## 2. Основы программирования  
+### 2.0
 [CS50 (Гарвардский курс по основам программирования)](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)  
-[Что такое компилятор](https://medium.com/nuances-of-programming/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D0%BB%D1%8F%D1%82%D0%BE%D1%80-3bcd06dca522)  
 [Какую IDE выбрать Flutter-разработчику](https://academy.mediasoft.team/article/kakuyu-ide-vybrat-android-flutter-i-ios-razrabotchiku/)  
 
-**ООП**  
+### 2.1 ООП
 [Что такое ООП](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)  
 [ООП в картинках](https://habr.com/ru/post/463125/)  
 
-**Системы контроля версий**  
+### 2.2 Системы контроля версий
 [Что такое GIT, GITHUB и BITBUCKET? / Просто и понятно](https://www.youtube.com/watch?v=ykyERvz17LE)  
 [Эффективное использование Github](https://habr.com/ru/company/2gis/blog/306166/)  
 [Git. Коротко о главном](https://habr.com/ru/post/588801/)  
 
-**Алгоритмы и структуры данных**  
+### 2.3 Алгоритмы и структуры данных
 [Структуры данных](https://habr.com/ru/post/422259/)  
 [Тренировки по алгоритмам](https://www.youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)  
 [Адитья Бхаргава "Грокаем алгоритмы"](https://vk.com/doc44301783_448824849?hash=kIzYkhoq6jGrHzZ35vBPqPL7nKZSMqgejURq9aHd9pc&dl=6JcvTX9YucqFm8BufObBvZxWfrCKPN5DQFe0wsd2sQ4)  
@@ -46,38 +46,7 @@
 [Управление состоянием в приложениях на Flutter](https://habr.com/ru/post/424765/)   
 [Виджеты, Контекст, Стейт, Ключи](https://www.youtube.com/watch?v=9LvO7xkueT4)  
 [Iterable , Stream и sync*/async* генераторы](https://www.youtube.com/watch?v=SZGG7uTBXJ4)   
-
-<details>
-  <summary></b>Не пиши велосипед, лучше возьми пакет</b></summary>
-  - [drift](https://pub.dev/packages/drift) - sql бд  
-  - [shared_preferences](https://pub.dev/packages/shared_preferences) - бд для хранения простых данных  
-  - [json_serializable](https://pub.dev/packages/json_serializable) - генерация кода для парсинга json  
-  - [freezed](https://pub.dev/packages/freezed) - генерация кода   
-  - [collection](https://pub.dev/packages/collection) - дополнительные функции для различных структур данных  
-  - [icons_launcher](https://pub.dev/packages/collection) - добавление иконки  
-  - [http](https://pub.dev/packages/http) - http запросы  
-  - [dio](https://pub.dev/packages/dio) - http запросы  
-  - [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) - уведомления   
-  - [connectivity_plus](https://pub.dev/packages/connectivity_plus) - проверка подключения    
-  - [url_launcher](https://pub.dev/packages/url_launcher) - открытие сайта в приложении  
-  - [platform_info](https://pub.dev/packages/platform_info) - информация о платформе, на которой запущено приложение  
-  - [dart_code_metrics](https://pub.dev/packages/dart_code_metrics) - анализатор кода  
-  - [flutter_native_splash](https://pub.dev/packages/flutter_native_splash) - изменение белого экрана загрузки при старте приложения  
-  - [flutter_gen_runner](https://pub.dev/packages/flutter_gen_runner) - генерация кода для ассетов, шрифтов, цветов  
-  - [intl](https://pub.dev/packages/intl) - перевод приложения  
-  - [retrofit](https://pub.dev/packages/retrofit) - генерация http запросов для dio  
-  - [rive](https://pub.dev/packages/rive) - добавление анимаций rive  
-  - [geolocator](https://pub.dev/packages/geolocator) - геолокация  
-  - [share_plus](https://pub.dev/packages/share_plus) - передача информации между устройствами  
-  - [sensors_plus](https://pub.dev/packages/sensors_plus) - получение информации с сенсоров  
-  - [battery_plus](https://pub.dev/packages/battery_plus) - получение информации о заряде батареи  
-  - [cached_network_image](https://pub.dev/packages/cached_network_image) - кэширование картинок  
-  - [google_fonts](https://pub.dev/packages/google_fonts) - использование шрифтов из Google Fonts  
-  - [permission_handler](https://pub.dev/packages/permission_handler) - получение разрешений  
-  - [image](https://pub.dev/packages/image) - сохранение картинок  
-  - [animations](https://pub.dev/packages/animations) - анимации  
-</details>  
-
+Не пиши велосипед, лучше возьми паке
 
 ## 4. Архитектура приложений на flutter
 [Примеры приложений](https://github.com/stars/p0dyakov/lists/flutter-examples)   
@@ -88,7 +57,7 @@
 [Refactoring Guru](https://refactoring.guru/ru/) - сайт с описанием различных паттернов проектирования  
 [Курс: Паттерны и практики написания кода](https://youtube.com/playlist?list=PLknJ4Vr6efQHD8qkPPosGQjqrZpTa7KQP)  
 
-## Flutter под капотом
+## 5. Flutter и dart на более глубоком уровне
 [Сборка мусора во Flutter](https://habr.com/ru/company/rshb/blog/668600/)  
 [Как работает Flutter](https://habr.com/ru/post/476018/)  
 [Flutter каналы платформы](https://habr.com/ru/post/666272/)  
@@ -98,7 +67,7 @@
 [Эвент лупы и Изоляты](https://www.youtube.com/watch?v=kLoYHnh9XS0)    
 [Flutter под капотом — Михаил Зотьев, Артём Зайцев, Surf](https://www.youtube.com/watch?v=KdCAzsTXdV8)  
 
-## Собеседования 
+## 6. Собеседования 
 [Ответы на вопросы](https://github.com/p0dyakov/flutter_interview/blob/main/README.md)  
 [Собеседование Middle Flutter-разработчика | WTF Interview #1](https://www.youtube.com/watch?v=Pf6W6cPUsvE)  
 [Собеседование Middle+ Flutter-разработчика | WTF Interview #2](https://www.youtube.com/watch?v=nONvezT1oAo)  
