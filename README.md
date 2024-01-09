@@ -46,7 +46,7 @@
 [Управление состоянием в приложениях на Flutter](https://habr.com/ru/post/424765/)   
 [Виджеты, Контекст, Стейт, Ключи](https://www.youtube.com/watch?v=9LvO7xkueT4)  
 [Iterable , Stream и sync*/async* генераторы](https://www.youtube.com/watch?v=SZGG7uTBXJ4)   
-Не пиши велосипед, лучше возьми паке
+[Не пиши велосипед, лучше возьми пакет](https://github.com/p0dyakov/flutter_best_packages/blob/main/README.md)
 
 ## 4. Архитектура приложений на flutter
 [Примеры приложений](https://github.com/stars/p0dyakov/lists/flutter-examples)   
