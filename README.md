@@ -95,7 +95,7 @@
 [Эвент лупы и Изоляты](https://www.youtube.com/watch?v=kLoYHnh9XS0)    
 [Flutter под капотом — Михаил Зотьев, Артём Зайцев, Surf](https://www.youtube.com/watch?v=KdCAzsTXdV8)  
 
-## Интервью 
+## Собеседования 
 [Ответы на вопросы](https://github.com/p0dyakov/flutter_interview/blob/main/README.md)  
 [Собеседование Middle Flutter-разработчика | WTF Interview #1](https://www.youtube.com/watch?v=Pf6W6cPUsvE)  
 [Собеседование Middle+ Flutter-разработчика | WTF Interview #2](https://www.youtube.com/watch?v=nONvezT1oAo)  
