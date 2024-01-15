@@ -39,6 +39,7 @@
 [Установка Flutter](https://metanit.com/dart/flutter/1.1.php)
 [LazyLoad Dart & Flutter](https://www.youtube.com/c/LearnDartFlutter/videos?view=0&sort=da&flow=grid)  
 [Flutter хэндбук от Яндекс](https://education.yandex.ru/handbook/flutter)
+[Чаты и каналы по Dart & Flutter](https://t.me/DiaryFlutterDev/376)  
 [Статьи по flutter](https://github.com/p0dyakov/flutter_articles)  
 [Сборник информации по Flutter](https://github.innominds.com/newbalancem5/flutter_info)  
 [ШМР 2022](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAcQQjPdi77FUF8LYoLZHoO)  
