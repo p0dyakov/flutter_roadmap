@@ -3,7 +3,7 @@
     <img alt="logo" src="https://raw.githubusercontent.com/p0dyakov/flutter_roadmap/main/logo.png">
   </a>
 </p>
-В данном репозитории собраны материалы, с помощью которых можно изучить мобильную разработку на dart и flutter. Но не стоит только смотреть, самое важное - практика! Пулл реквесты приветствуются  
+В данном репозитории собраны материалы, с помощью которых можно изучить мобильную разработку на dart и flutter. Но не стоит только смотреть, самое важное - практика! Пул реквесты приветствуются  
 
 Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_acrticles](https://github.com/p0dyakov/flutter_acrticles)
 
