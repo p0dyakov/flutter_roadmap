@@ -71,10 +71,10 @@
 [Flutter под капотом — Михаил Зотьев, Артём Зайцев, Surf](https://www.youtube.com/watch?v=KdCAzsTXdV8)  
 
 ## 6. Практика
-На данном этапе необходимо разработать несколько приложений для отработки полученных знаний. В этом вам помогут:
-[Free Figma UI Kits](https://www.uxcrush.com/free-figma-ui-kits/)
-[224 Free Figma Design Resources](https://www.uistore.design/types/figma/)
-[Public APIs](https://github.com/public-apis/public-apis)
+На данном этапе необходимо разработать несколько приложений для отработки полученных знаний. В этом вам помогут:  
+[Free Figma UI Kits](https://www.uxcrush.com/free-figma-ui-kits/)  
+[224 Free Figma Design Resources](https://www.uistore.design/types/figma/)  
+[Public APIs](https://github.com/public-apis/public-apis)  
 
 ## 7. Собеседования 
 [Ответы на вопросы](https://github.com/p0dyakov/flutter_interview/blob/main/README.md)  
