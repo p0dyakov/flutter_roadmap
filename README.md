@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://raw.githubusercontent.com/p-zahar/flutter_roadmap">
-    <img alt="logo" src="https://raw.githubusercontent.com/p-zahar/flutter_roadmap/main/logo.png">
+  <a href="https://raw.githubusercontent.com/p0dyakov/flutter_roadmap">
+    <img alt="logo" src="https://raw.githubusercontent.com/p0dyakov/flutter_roadmap/main/logo.png">
   </a>
 </p>
 В данном репозитории собраны материалы, с помощью которых можно изучить мобильную разработку на dart и flutter. Но не стоит только смотреть, самое важное - практика! Пулл реквесты приветствуются  
@@ -33,11 +33,14 @@
 [Тренировки по алгоритмам](https://www.youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)  
 [Адитья Бхаргава "Грокаем алгоритмы"](https://vk.com/doc44301783_448824849?hash=kIzYkhoq6jGrHzZ35vBPqPL7nKZSMqgejURq9aHd9pc&dl=6JcvTX9YucqFm8BufObBvZxWfrCKPN5DQFe0wsd2sQ4)  
 [Leetcode](https://leetcode.com/problemset/all/) - сайт с алгоритмическими задачами  
-[NeetCode](https://www.youtube.com/@NeetCode)
+[NeetCode](https://www.youtube.com/@NeetCode) - сайт с алгоритмическими задачами 
 
 ## 3. Основы dart & flutter
+[Установка Flutter](https://metanit.com/dart/flutter/1.1.php)
 [LazyLoad Dart & Flutter](https://www.youtube.com/c/LearnDartFlutter/videos?view=0&sort=da&flow=grid)  
-[Статьи по flutter](https://github.com/p-zahar/flutter_articles)  
+[Flutter хэндбук от Яндекс](https://education.yandex.ru/handbook/flutter)
+[Статьи по flutter](https://github.com/p0dyakov/flutter_articles)  
+[Сборник информации по Flutter](https://github.innominds.com/newbalancem5/flutter_info)  
 [ШМР 2022](https://www.youtube.com/playlist?list=PLQC2_0cDcSKAcQQjPdi77FUF8LYoLZHoO)  
 [ШМР 2021](https://www.youtube.com/playlist?list=PLQC2_0cDcSKBB4F8y-V_lB2HiFYSWIgYW)  
 [Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)  
@@ -67,7 +70,13 @@
 [Эвент лупы и Изоляты](https://www.youtube.com/watch?v=kLoYHnh9XS0)    
 [Flutter под капотом — Михаил Зотьев, Артём Зайцев, Surf](https://www.youtube.com/watch?v=KdCAzsTXdV8)  
 
-## 6. Собеседования 
+## 6. Практика
+На данном этапе необходимо разработать несколько приложений для отработки полученных знаний. В этом вам помогут:
+[Free Figma UI Kits](https://www.uxcrush.com/free-figma-ui-kits/)
+[224 Free Figma Design Resources](https://www.uistore.design/types/figma/)
+[Public APIs](https://github.com/public-apis/public-apis)
+
+## 7. Собеседования 
 [Ответы на вопросы](https://github.com/p0dyakov/flutter_interview/blob/main/README.md)  
 [Собеседование Middle Flutter-разработчика | WTF Interview #1](https://www.youtube.com/watch?v=Pf6W6cPUsvE)  
 [Собеседование Middle+ Flutter-разработчика | WTF Interview #2](https://www.youtube.com/watch?v=nONvezT1oAo)  
