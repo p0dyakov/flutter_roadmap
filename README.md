@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://raw.githubusercontent.com/p0dyakov/flutter_roadmap">
-    <img alt="logo" src="https://raw.githubusercontent.com/p0dyakov/flutter_roadmap/main/logo.png">
-  </a>
-</p>
+![Flutter Roadmap](https://github.com/p0dyakov/flutter_roadmap/assets/80569772/ccc4665e-ff15-42ba-83b9-2b0db21a5f5b)
 В данном репозитории собраны материалы, с помощью которых можно изучить мобильную разработку на dart и flutter. Но не стоит только смотреть, самое важное - практика! Пул реквесты приветствуются  
 
 Другое: [flutter_interview](https://github.com/p0dyakov/flutter_interview), [flutter_acrticles](https://github.com/p0dyakov/flutter_acrticles)
