@@ -1,6 +1,5 @@
 ![Flutter Roadmap](https://github.com/p0dyakov/flutter_roadmap/assets/80569772/ccc4665e-ff15-42ba-83b9-2b0db21a5f5b)
 **Репозитории:** [Flutter Interview](https://github.com/p0dyakov/flutter_interview), [Flutter Roadmap](https://github.com/p0dyakov/flutter_roadmap), [Flutter Acrticles](https://github.com/p0dyakov/flutter_articles), [Flutter Best Packages](https://github.com/p0dyakov/flutter_best_packages), [Flutter Tools](https://github.com/p0dyakov/flutter_tools)  
-В данном репозитории собраны материалы, с помощью которых можно изучить мобильную разработку на dart и flutter. Но не стоит только смотреть, самое важное - практика! Пул реквесты приветствуются  
 
 ## 1. Перед тем, как начать путь в IT
 [Как стать программистом](https://www.youtube.com/watch?v=fJ2AxT3qHPE)  
