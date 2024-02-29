@@ -77,4 +77,7 @@
 [Собеседование Middle+ Flutter-разработчика | WTF Interview #2](https://www.youtube.com/watch?v=nONvezT1oAo)  
 [Собеседование Junior Flutter-разработчика | WTF Interview #3](https://www.youtube.com/watch?v=tURNG5WqmWM)  
 [Собеседование Senior Flutter-разработчика | WTF Interview #4](https://www.youtube.com/watch?v=0WRWDRH1-XE)  
+[Взаимное собеседование по Flutter (Саша vs Глеб) | WTF Battle #1](https://www.youtube.com/watch?v=9PUutzzF7Rs&ab_channel=WhattheFlutter)  
+[Собеседование Flutter-разработчик. Популярные вопросы: разбор | Mad Brains Техно](https://www.youtube.com/watch?v=8OijrHrvxXs&ab_channel=MadBrains)  
+[Как пройти собеседование на Flutter-разработчика: разбираем вопросы о Dart | Mad Brains Техно](https://www.youtube.com/watch?v=lzk4aBagt74&ab_channel=MadBrains)  
 [Flutter. Открытое собеседование](https://www.youtube.com/watch?v=K8o8RCsj41s)  
